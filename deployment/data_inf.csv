@@ -1,0 +1,2 @@
+,user_id,age,gender,region_category,membership_category,joining_date,joined_through_referral,preferred_offer_types,medium_of_operation,internet_option,last_visit_time,days_since_last_login,avg_time_spent,avg_transaction_value,avg_frequency_login_days,points_in_wallet,used_special_discount,offer_application_preference,past_complaint,complaint_status,feedback
+0,8590af72adf4f3a9,52,F,City,No Membership,2016-05-16,Yes,Credit/Debit Card Offers,,Mobile_Data,11:11:03,11,301.67,14545.56,16.0,0.0,No,Yes,Yes,Solved,Too many ads

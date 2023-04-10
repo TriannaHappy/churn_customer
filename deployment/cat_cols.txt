@@ -1,0 +1,1 @@
+["user_id", "gender", "region_category", "membership_category", "joined_through_referral", "preferred_offer_types", "medium_of_operation", "internet_option", "last_visit_time", "used_special_discount", "offer_application_preference", "past_complaint", "complaint_status", "feedback"]
